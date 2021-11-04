@@ -11,3 +11,4 @@ sudo apt upgrade -y
 sudo apt install mono-complete -y
 
 sudo apt install festival -y
+
